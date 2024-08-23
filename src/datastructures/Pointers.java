@@ -46,6 +46,18 @@ public class Pointers {
 				// When getting into linked lists, both head and tail will serve as pointers.  
 				// Each of the items in the liked list will point to each other with pointers. 
 
+				
+				// -------------------------------------------------------------------------------------------------------------------------------------
+				// -------------------------------------------------------------------------------------------------------------------------------------
+//				Thinking piece / Learning 
+//				= 
+//				pionting to an identical *value  || 
+//				pointing to the exact same *value in memory (when comparing) ||
+//				pointing to a value, just pointing (head, next, tail)
+		
+//				With Linked-lists nodes: 
+//				A node is both the value and the pointer.
+//				In very simple ways, `next` = next node
 	}
 
 }
